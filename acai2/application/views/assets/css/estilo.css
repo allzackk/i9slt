@@ -1,0 +1,40 @@
+.home-item {
+	background-color: #DAD0F2; !important
+	text-decoration: none; !important
+}
+.box-shadow {
+	background-color: #DAD0F2; !important
+}
+#nav{
+	background: #DAD0F2; !important
+	border: 2px solid #563d7c; !important
+}
+a {
+	color: #563d7c; !important
+	text-decoration: none; !important
+}
+h2 {
+	color: #563d7c; !important
+	text-decoration: none; !important
+}
+i {
+	color: #563d7c; !important
+	text-decoration: none; !important
+}
+a:hover {
+	text-decoration: none; !important
+}
+i:hover {
+	text-decoration: none; !important
+}
+button {
+    background-color: #563d7c; !important
+    color: white;
+}
+button * {
+    color: white;
+    display: inline;
+}
+.navbar {
+	border: solid 2px #563d7c; !important
+}
