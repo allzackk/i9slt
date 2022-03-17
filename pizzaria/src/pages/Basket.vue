@@ -2,7 +2,7 @@
   <section id='body-basket'> 
     <header id='header-basket'>
       <div>
-        <a class='iconarrowback' href='/digital-menu/#/'> <ArrowBackIcon /></a>
+        <a class='iconarrowback' href='/pizzaria/#/'> <ArrowBackIcon /></a>
         <h1> Cesta de compras <BasketIcon/> </h1>
       </div>
       <nav>
